@@ -1,8 +1,0 @@
-c:\users\acer\documents\visual studio 2010\Projects\HaberPortali\HaberPortali\bin\HaberPortali.dll
-c:\users\acer\documents\visual studio 2010\Projects\HaberPortali\HaberPortali\bin\HaberPortali.pdb
-c:\users\acer\documents\visual studio 2010\Projects\HaberPortali\HaberPortali\bin\HaberPortali.xml
-c:\users\acer\documents\visual studio 2010\Projects\HaberPortali\HaberPortali\obj\Debug\HaberPortali.Resources.resources
-c:\users\acer\documents\visual studio 2010\Projects\HaberPortali\HaberPortali\obj\Debug\HaberPortali.vbproj.GenerateResource.Cache
-c:\users\acer\documents\visual studio 2010\Projects\HaberPortali\HaberPortali\obj\Debug\HaberPortali.dll
-c:\users\acer\documents\visual studio 2010\Projects\HaberPortali\HaberPortali\obj\Debug\HaberPortali.xml
-c:\users\acer\documents\visual studio 2010\Projects\HaberPortali\HaberPortali\obj\Debug\HaberPortali.pdb
